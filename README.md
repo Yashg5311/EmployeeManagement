@@ -63,13 +63,3 @@ Make sure you have the necessary dependencies installed and meet the system requ
 - **PostgreSQL Database:** Install the PostgreSQL database management system to create and manage the project's database. You can download it from the official PostgreSQL website. Make sure you have the necessary credentials (username, password, and database name) to access the database.
 
 - **Web Browser:** You will need a modern web browser (such as Google Chrome, Mozilla Firefox, or Microsoft Edge) to access and interact with the project's user interface.
-
-## Contributions
-
-Contributions to the project are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-Please ensure that you follow the project's code of conduct and provide detailed information about the changes you propose.
-
-## Contact
-
-For any questions or inquiries, please contact the project maintainer at `mrsagarxt@gmail.com`.
